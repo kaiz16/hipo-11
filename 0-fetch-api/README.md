@@ -1,0 +1,27 @@
+1. guess-the-number
+A very simple guess the number game
+
+2. jsonplaceholder
+Random API requests to https://jsonplaceholder.typicode.com/
+
+3. randoms
+Displaying random authors and posts using fetch api
+
+Codepen  
+Guess the secret number  
+https://codepen.io/kaiz16/pen/XWKLJGe?editors=0010
+
+Fake users  
+https://codepen.io/dericyee/pen/wvMNPWM?editors=1111
+
+Random authors  
+https://codepen.io/dericyee/pen/XWdyKdX?editors=0110
+
+Resources  
+Exchange rate converter  
+https://exchg-rate-cvt.web.app/
+
+Fetch API  
+https://www.freecodecamp.org/news/a-practical-es6-guide-on-how-to-perform-http-requests-using-the-fetch-api-594c3d91a547/  
+https://developers.google.com/web/updates/2015/03/introduction-to-fetch  
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
